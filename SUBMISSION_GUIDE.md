@@ -43,13 +43,13 @@ Each team must submit the following:
 
 ## Presentation Format
 
-- Each team will have:
+Each team will have:
 
-• 5–7 minutes to present their project.
+5–7 minutes to present their project.
 
 Followed by:
 
-• 3 minutes for questions from judges.
+3 minutes for questions from judges.
 
 ---
 
