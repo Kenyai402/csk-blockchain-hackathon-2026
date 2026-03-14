@@ -11,28 +11,28 @@ Each team must submit the following:
 1. **Project Name**
 
 2. **Team Members**
-List the names of all team members.
+- List the names of all team members.
 
 3. **Problem Statement**
-Explain the problem your project addresses.
+- Explain the problem your project addresses.
 
 4. **Solution Description**
-Describe how your solution works and how blockchain is used.
+- Describe how your solution works and how blockchain is used.
 
 5. **Project Demo**
-This could include:
-- live demo
-- screenshots
-- prototype walkthrough
+- This could include:
+• live demo
+• screenshots
+•  prototype walkthrough
 
 6. **Presentation**
-Teams should prepare a short presentation explaining their project.
+- Teams should prepare a short presentation explaining their project.
 
 ---
 
 ## Optional
 
-Teams may also include:
+- Teams may also include:
 
 • GitHub repository  
 • architecture diagrams  
@@ -43,13 +43,13 @@ Teams may also include:
 
 ## Presentation Format
 
-Each team will have:
+- Each team will have:
 
-5–7 minutes to present their project.
+• 5–7 minutes to present their project.
 
 Followed by:
 
-3 minutes for questions from judges.
+• 3 minutes for questions from judges.
 
 ---
 
